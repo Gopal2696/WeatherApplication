@@ -1,5 +1,3 @@
-console.log('client side javascript file is script')
-
 const weatherform = document.querySelector('form')
 const searchelement = document.querySelector('input')
 const messageOne = document.querySelector('#message-one')
